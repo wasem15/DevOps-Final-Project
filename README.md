@@ -22,10 +22,6 @@ A compact DevOps project demonstrating automated build configuration and contain
 
 The project was created to practice integrating application containerization with an automated CI build process.
 
-## Portfolio context
-
-This is a supporting DevOps project. It complements the larger application repositories by demonstrating infrastructure and delivery concepts.
-
 ## License
 
 Apache License 2.0.
